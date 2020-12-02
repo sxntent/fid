@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Open+Sans&display=swap');
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: #AF9164;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.name {
+    font-family: 'Libre Baskerville', serif;
+}
